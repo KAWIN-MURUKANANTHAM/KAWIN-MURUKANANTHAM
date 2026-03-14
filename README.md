@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Learning **Java,Data Structures**
 
-- 👯 I’m have a basic knowledge in ` **C ,C++**
+- 👯 I’m have a basic knowledge in ` **C ,C++, Java**
 
 - 🤝 I’m looking for help with **Basic Competative Coding**
 
